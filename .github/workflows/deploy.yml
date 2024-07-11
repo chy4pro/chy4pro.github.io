@@ -2,6 +2,7 @@ name: Pages
 
 # 触发器、分支
 on:
+  workflow_dispatch:
   push:
     branches:
       - gh-pages  # default branch
