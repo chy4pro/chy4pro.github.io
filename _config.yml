@@ -7,7 +7,7 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: Haoyu Chen
+author: John Doe
 language: en
 timezone: ''
 
@@ -101,6 +101,4 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: https://github.com/chy4pro/chy4pro.github.io
-  branch: deploy
+  type: ''
